@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "a2bbcbf46849c86a67f00a2f25a5bc965cd78f40",
+  "LastProcessedCommit": "afc67b5964f4bc33b014383f912feff83cfe866c",
   "LastTranslatedCommit": "7ad4b07b0f8536fda54258b705ee75b5538cea57",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -1254,6 +1254,21 @@
       "HandoffFileCommit": "9834c919d131a70e2f2b86cf9eaa2c5d71a1dc76",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-11-11T08:20:53.689501Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    },
+    "a7640c222d084ad8705adf3206cc238fc33ff331": {
+      "SourceFileCommit": "afc67b5964f4bc33b014383f912feff83cfe866c",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\powershell_snippets.21e7d9aff80df6f1c56918c2c3e1149d3e880e9a.ko-kr.xlf",
+      "HandoffFileCommit": "a4c842c10ca214bcda69e21161f7902c83be54bd",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-12T21:13:47.6085836Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
