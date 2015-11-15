@@ -324,5 +324,56 @@
   ],
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
+  ],
+  "8c7bbfb4cce7933f3288aba80a80507b399ac776": [
+    "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md"
+  ],
+  "2ad607964e95e5dc4570fd2fc1ce05f592bf08f0": [
+    "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
+  ],
+  "851345687639b6942357c4f7518a4fe528d952da": [
+    "virtualization\\hyperv_on_windows\\about\\whats_new.md"
+  ],
+  "1e570b48f01ed63333705d5da5031bc706a67a94": [
+    "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
+  ],
+  "822e6cee5989d29adf7c12b0b37cbdf01a96c88c": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md"
+  ],
+  "3d3f98ee3495a340c7fb56e15f900aa719ebc15e": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+  ],
+  "44cee369a80323f1e5a896a7d6a65b89112055b9": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
+  ],
+  "df858fce3585e102d26f467bca2b0755ecf24824": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
+  ],
+  "c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
+  ],
+  "0e17e37e1e05990d89952a7e4eeea504cd215269": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
+  ],
+  "47774db49f5a1c02facd46120ba88a3398a23212": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
+  ],
+  "64d931f0509211ef361f5e86225a53ab5fdd9131": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
+  ],
+  "55744774ff20c1dd435f1d7ca0eafb3332b201f3": [
+    "virtualization\\hyperv_on_windows\\user_guide\\export_import.md"
+  ],
+  "a74f3687bd3a1fe2b92bf8424df6957c6b223aa4": [
+    "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
+  ],
+  "d772ee3e60961445f6ad27f6d2e2f14678d990e1": [
+    "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md"
+  ],
+  "c9963491668f14ebc3a62e3d8e0d43d744a1d341": [
+    "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md"
+  ],
+  "2630f2629bf19ce887b373fcbd3bc26fe879d061": [
+    "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
   ]
 }
