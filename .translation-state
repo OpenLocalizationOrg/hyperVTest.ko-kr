@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "8698a5d457c7689ef96f0ab8ca2891866bd4f5ea",
+  "LastProcessedCommit": "b6b597901bca274d5d4d377f8dcb2c55f59f6b6d",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -1389,7 +1389,8 @@
         "virtualization\\hyperv_on_windows\\windows_welcome_new.md"
       ],
       "FilePathList": [
-        "virtualization\\windowscontainers\\media\\try.png"
+        "virtualization\\windowscontainers\\media\\try.png",
+        "virtualization\\hyperv_on_windows\\media\\whats_new.png"
       ]
     },
     "215adae041390b1edb10b314dc7ce21f6b39592e": {
@@ -1411,7 +1412,8 @@
         "virtualization\\hyperv_on_windows\\windows_welcome_new.md"
       ],
       "FilePathList": [
-        "virtualization\\windowscontainers\\media\\1.png"
+        "virtualization\\windowscontainers\\media\\1.png",
+        "virtualization\\hyperv_on_windows\\media\\MeetsRequirements_65.png"
       ]
     },
     "7de8389ab2b14e0926c142bf61be560037fc2658": {
@@ -2516,6 +2518,48 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md"
+      ]
+    },
+    "f8028372876eb8d38fb4571b18bdc30585c95087": {
+      "FileHash": "f8028372876eb8d38fb4571b18bdc30585c95087",
+      "SourceFileCommit": "b6b597901bca274d5d4d377f8dcb2c55f59f6b6d",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\media\\Chat_65.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
+      "HandoffFileCommit": "9679add648cd1336eb87ab0b9f76a08fdab126c1",
+      "HandoffReason": 2,
+      "HandoffDateTime": "2015-11-16T18:26:43.4107992Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": [
+        "virtualization\\hyperv_on_windows\\windows_welcome_new.md",
+        "virtualization\\windowscontainers\\containers_welcome.md"
+      ],
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\media\\Chat_65.png",
+        "virtualization\\windowscontainers\\media\\Chat_65.png"
+      ]
+    },
+    "dae37299a5f0b070b495f82863583a38f3ac8860": {
+      "FileHash": "dae37299a5f0b070b495f82863583a38f3ac8860",
+      "SourceFileCommit": "b6b597901bca274d5d4d377f8dcb2c55f59f6b6d",
+      "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.ko-kr.xlf",
+      "HandoffFileCommit": "9679add648cd1336eb87ab0b9f76a08fdab126c1",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-16T18:26:43.4107992Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\containers_welcome.md"
       ]
     }
   }
