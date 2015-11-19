@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3415fa97979e693287abc9867c1094e202db759a",
+  "LastProcessedCommit": "178c959821157eeaf6ad8a5f87f2fd4b83e2cea9",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2529,9 +2529,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "eb052be16d56b8836e3d68642daf168d5eee891e",
+      "HandoffFileCommit": "97cfa991424f59ed972ce7ee64af27af6e9d4e0c",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-11-19T07:22:46.5969657Z",
+      "HandoffDateTime": "2015-11-19T07:32:22.4828803Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2735,6 +2735,25 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
+      ]
+    },
+    "dbafa1d6e63dbfd904402ffa16033bd0fe63005e": {
+      "FileHash": "dbafa1d6e63dbfd904402ffa16033bd0fe63005e",
+      "SourceFileCommit": "178c959821157eeaf6ad8a5f87f2fd4b83e2cea9",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\powershell_snippets_new.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.ko-kr.xlf",
+      "HandoffFileCommit": "97cfa991424f59ed972ce7ee64af27af6e9d4e0c",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-19T07:32:22.4828803Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\powershell_snippets_new.md"
       ]
     }
   }
