@@ -2,12 +2,6 @@
   "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": [
     "virtualization\\community\\TOC.md"
   ],
-  "e16d508640119c3960e875aaa3b3c1ce48d7bfc6": [
-    "virtualization\\hyperv_on_windows\\about\\whats_new.md"
-  ],
-  "851345687639b6942357c4f7518a4fe528d952da": [
-    "virtualization\\hyperv_on_windows\\about\\whats_new.md"
-  ],
   "7c8369907f03597d2426402b6d4cd79fd10afb88": [
     "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
   ],
@@ -266,6 +260,9 @@
   ],
   "b0a1d4eaf7787cafeeb5777d4d869330f94793cd": [
     "virtualization\\hyperv_on_windows\\about\\supported_guest_ms.md"
+  ],
+  "e16d508640119c3960e875aaa3b3c1ce48d7bfc6": [
+    "virtualization\\hyperv_on_windows\\about\\whats_new_nov.md"
   ],
   "1958cab11e62080b7dfc8dd8e1f6d41e4b438683": [
     "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
