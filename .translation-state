@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "e5a377ac5704a2eed2918e7228318ef92356d80f",
+  "LastProcessedCommit": "4738b86f34ad0f697279a48bd520fbe3e34b9dc8",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2527,9 +2527,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "7ee1f738438f761bdea365bfaa625ff770bae597",
+      "HandoffFileCommit": "cb888985b0458f62bd132a4a8ff4dff51726f8dc",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-11-19T01:17:47.8261054Z",
+      "HandoffDateTime": "2015-11-19T01:27:06.3252748Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2675,6 +2675,25 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome_new.md"
+      ]
+    },
+    "2c4168559e894467d2db48659da146837b67fc38": {
+      "FileHash": "2c4168559e894467d2db48659da146837b67fc38",
+      "SourceFileCommit": "4738b86f34ad0f697279a48bd520fbe3e34b9dc8",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\hyperv_on_windows.d9da0ac74ee24f28f940324928905e38e074d9e2.ko-kr.xlf",
+      "HandoffFileCommit": "cb888985b0458f62bd132a4a8ff4dff51726f8dc",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-19T01:27:06.3252748Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md"
       ]
     }
   }
