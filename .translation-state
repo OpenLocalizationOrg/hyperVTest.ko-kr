@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4383d5fd2e650aa5ea0da5baf60443616a245431",
+  "LastProcessedCommit": "3415fa97979e693287abc9867c1094e202db759a",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2529,9 +2529,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "2cba4ab06541da9af723ff355b9f45dd9c0017fa",
+      "HandoffFileCommit": "eb052be16d56b8836e3d68642daf168d5eee891e",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-11-19T06:55:32.1096592Z",
+      "HandoffDateTime": "2015-11-19T07:22:46.5969657Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2716,6 +2716,25 @@
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
         "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service_test.md"
+      ]
+    },
+    "2b9e9b367c183aac1bdafacbe6bbe4a65d45d585": {
+      "FileHash": "2b9e9b367c183aac1bdafacbe6bbe4a65d45d585",
+      "SourceFileCommit": "3415fa97979e693287abc9867c1094e202db759a",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\powershell_snippets.21e7d9aff80df6f1c56918c2c3e1149d3e880e9a.ko-kr.xlf",
+      "HandoffFileCommit": "eb052be16d56b8836e3d68642daf168d5eee891e",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-19T07:22:46.5969657Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
       ]
     }
   }
