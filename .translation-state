@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "178c959821157eeaf6ad8a5f87f2fd4b83e2cea9",
+  "LastProcessedCommit": "02394629594e9a7913b5f395aca5e66ace407e75",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2529,9 +2529,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "97cfa991424f59ed972ce7ee64af27af6e9d4e0c",
+      "HandoffFileCommit": "faf8217631adab8f46900194afd2743a3619984b",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-11-19T07:32:22.4828803Z",
+      "HandoffDateTime": "2015-11-20T18:56:29.7993461Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2754,6 +2754,25 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\about\\powershell_snippets_new.md"
+      ]
+    },
+    "a0dbaa21b5dee2e66567ce907c3e892b5fee4d50": {
+      "FileHash": "a0dbaa21b5dee2e66567ce907c3e892b5fee4d50",
+      "SourceFileCommit": "02394629594e9a7913b5f395aca5e66ace407e75",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.ko-kr.xlf",
+      "HandoffFileCommit": "faf8217631adab8f46900194afd2743a3619984b",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-20T18:56:29.7993461Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
       ]
     }
   }
