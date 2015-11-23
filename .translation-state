@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "9a283b5170b3250c5c9c7d4539ecd55fd0ad7ba7",
+  "LastProcessedCommit": "bf8b3f9f4481b4b5834852a474b0a4d627b98e54",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2529,9 +2529,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "257a2b1393d7bbb36c298db97aa8e3b3649bd9b3",
+      "HandoffFileCommit": "15680161b771cc728c5821e87785d079709adf0e",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-11-20T22:00:18.3921478Z",
+      "HandoffDateTime": "2015-11-23T17:50:51.1815001Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2811,6 +2811,25 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
+      ]
+    },
+    "321cb89962fb551302f7c65ed306a2dc1a5a7215": {
+      "FileHash": "321cb89962fb551302f7c65ed306a2dc1a5a7215",
+      "SourceFileCommit": "bf8b3f9f4481b4b5834852a474b0a4d627b98e54",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.ko-kr.xlf",
+      "HandoffFileCommit": "15680161b771cc728c5821e87785d079709adf0e",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-23T17:50:51.1815001Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
       ]
     }
   }
