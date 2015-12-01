@@ -77,6 +77,9 @@
   "61d3a219c4976b61137f6b8c6739135a4d917265": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\after_delete.png"
   ],
+  "c7baf8edb6c8fd627783b8da351f77f2b9957d7b": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
+  ],
   "6d60804c50f098828298c045dae14403b015a6ec": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
   ],

@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "68051fa0471cc3832b44697298712ecaaded094b",
+  "LastProcessedCommit": "ca5b7fdd4f1259595fc0fe17cb69464c390af896",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2529,9 +2529,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "10028fdeacbf50b051eeab1086cfdf6f30cf22d4",
+      "HandoffFileCommit": "474d9ed2d5ac43edc71734abd2fd03b04053cbee",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-11-24T17:51:33.5704122Z",
+      "HandoffDateTime": "2015-12-01T00:42:58.8975247Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2887,6 +2887,25 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
+      ]
+    },
+    "c7baf8edb6c8fd627783b8da351f77f2b9957d7b": {
+      "FileHash": "c7baf8edb6c8fd627783b8da351f77f2b9957d7b",
+      "SourceFileCommit": "ca5b7fdd4f1259595fc0fe17cb69464c390af896",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.ko-kr.xlf",
+      "HandoffFileCommit": "474d9ed2d5ac43edc71734abd2fd03b04053cbee",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-12-01T00:42:58.8975247Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
       ]
     }
   }
