@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "ca5b7fdd4f1259595fc0fe17cb69464c390af896",
+  "LastProcessedCommit": "c3ab82400eb331812b970be7de326ac9734856aa",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2529,9 +2529,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "474d9ed2d5ac43edc71734abd2fd03b04053cbee",
+      "HandoffFileCommit": "95cfb13f09342727bbb03dae7306d3361605b9a5",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-12-01T00:42:58.8975247Z",
+      "HandoffDateTime": "2015-12-03T10:12:14.1229548Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2906,6 +2906,25 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
+      ]
+    },
+    "b61f03ec234434bf2260ef1d706b60648d333f2b": {
+      "FileHash": "b61f03ec234434bf2260ef1d706b60648d333f2b",
+      "SourceFileCommit": "c3ab82400eb331812b970be7de326ac9734856aa",
+      "SourceFilePath": "virtualization\\windowscontainers\\about\\about_overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.ko-kr.xlf",
+      "HandoffFileCommit": "95cfb13f09342727bbb03dae7306d3361605b9a5",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-12-03T10:12:14.1229548Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\about\\about_overview.md"
       ]
     }
   }
