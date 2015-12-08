@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 19
+ Total Files | 18
 
 ## File List
  Source File | Status | Details 
@@ -22,7 +22,6 @@
  [virtualization\windowscontainers\quick_start\media\newazure7.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/media/newazure7.png) | FullHandedBack | [Details](#ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8253)
  [virtualization\windowscontainers\quick_start\media\newazure9.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/media/newazure9.png) | FullHandedBack | [Details](#530bd64d6f6f4ac321bc8a76d9c1b990b2ab338c255)
  [virtualization\windowscontainers\quick_start\media\nginx.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/media/nginx.png) | FullHandedBack | [Details](#a9f175f23fed1475c227ec1af2c524c918024bc4256)
- [virtualization\windowscontainers\reference\app_compat.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/app_compat.md) | FullHandedBack | [Details](#c1f617b6979a758331e6d4e3c48f8846d5b59326261)
  [virtualization\windowscontainers\reference\powershell_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/powershell_overview.md) | FullHandedBack | [Details](#041b88830b633f85459d3b5be24b0d68ba8071bd262)
  [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/ps_docker_comparison.md) | FullHandedBack | [Details](#4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263)
 
@@ -200,16 +199,6 @@
 * Handback File: [a9f175f23fed1475c227ec1af2c524c918024bc4.png](https://github.com/OpenLocalizationOrg/olhandback/blob/6e66a34464a6cbb920f4e2a34470b1aa422454b6/ol-handback/OpenLocalizationOrg/hyperVTest.ko-kr/master/a9f175f23fed1475c227ec1af2c524c918024bc4.png)
 * Handback Datetime: 2015-11-13 07:44:33
 * Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
-* [Back to Top](#report-top)
-
-##### <a name='c1f617b6979a758331e6d4e3c48f8846d5b59326261'></a> Source: [virtualization\windowscontainers\reference\app_compat.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/app_compat.md)
-* Status: FullHandedBack
-* Target File: [virtualization\windowscontainers\reference\app_compat.md](https://github.com/OpenLocalizationOrg/hyperVTest.ko-kr/blob/c6d2cdda1a305d0d85d1a1fd8f18c07873704898/virtualization/windowscontainers/reference/app_compat.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Handback File: [app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/6e66a34464a6cbb920f4e2a34470b1aa422454b6/ol-handback/OpenLocalizationOrg/hyperVTest.ko-kr/master/app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf)
-* Handback Datetime: 2015-11-13 07:44:33
 * [Back to Top](#report-top)
 
 ##### <a name='041b88830b633f85459d3b5be24b0d68ba8071bd262'></a> Source: [virtualization\windowscontainers\reference\powershell_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/powershell_overview.md)

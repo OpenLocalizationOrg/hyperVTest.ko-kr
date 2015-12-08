@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "ac9d3f1778adb9e2a21de74f0b185852338c79fd",
+  "LastProcessedCommit": "51b0a15558fbea536c4d69352742eb4c532af70c",
   "LastTranslatedCommit": "c6d2cdda1a305d0d85d1a1fd8f18c07873704898",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -2529,9 +2529,9 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
-      "HandoffFileCommit": "0960b9317588c10160e801798826b29a46a89989",
+      "HandoffFileCommit": "02b09cda7105c5ade7e6fbbae7310a1d5974d694",
       "HandoffReason": 2,
-      "HandoffDateTime": "2015-12-03T17:56:42.8443282Z",
+      "HandoffDateTime": "2015-12-08T23:58:10.6804746Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
@@ -2963,6 +2963,25 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\about_overview.md"
+      ]
+    },
+    "47df0521648aa201fe51d32cae3106500f417e91": {
+      "FileHash": "47df0521648aa201fe51d32cae3106500f417e91",
+      "SourceFileCommit": "51b0a15558fbea536c4d69352742eb4c532af70c",
+      "SourceFilePath": "virtualization\\windowscontainers\\reference\\app_compat.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf",
+      "HandoffFileCommit": "02b09cda7105c5ade7e6fbbae7310a1d5974d694",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-12-08T23:58:10.6804746Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\reference\\app_compat.md"
       ]
     }
   }

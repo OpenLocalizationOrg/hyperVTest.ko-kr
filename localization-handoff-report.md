@@ -6,17 +6,20 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ac9d3f1778adb9e2a21de74f0b185852338c79fd/virtualization/windowscontainers/about/about_overview.md) | HandedOff | [Details](#47c33654a29cc06a29e3d776b9ddb9da66bd3c10198)
+ [virtualization\windowscontainers\reference\app_compat.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/51b0a15558fbea536c4d69352742eb4c532af70c/virtualization/windowscontainers/reference/app_compat.md) | PartialHandedBack | [Details](#47df0521648aa201fe51d32cae3106500f417e91261)
 
 ## Item Details
-##### <a name='47c33654a29cc06a29e3d776b9ddb9da66bd3c10198'></a> Source: [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ac9d3f1778adb9e2a21de74f0b185852338c79fd/virtualization/windowscontainers/about/about_overview.md)
-* Status: HandedOff
+##### <a name='47df0521648aa201fe51d32cae3106500f417e91261'></a> Source: [virtualization\windowscontainers\reference\app_compat.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/51b0a15558fbea536c4d69352742eb4c532af70c/virtualization/windowscontainers/reference/app_compat.md)
+* Status: PartialHandedBack
 * Target File: 
-* Handoff File: [about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0960b9317588c10160e801798826b29a46a89989/ol-handoff/OpenLocalizationOrg/hyperVTest.ko-kr/master/about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.ko-kr.xlf)
-* Handoff Datetime: 2015-12-03 17:56:42
+* Handoff File: [app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/02b09cda7105c5ade7e6fbbae7310a1d5974d694/ol-handoff/OpenLocalizationOrg/hyperVTest.ko-kr/master/app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf)
+* Handoff Datetime: 2015-12-08 23:58:10
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\windowscontainers\reference\app_compat.md](https://github.com/OpenLocalizationOrg/hyperVTest.ko-kr/blob/c6d2cdda1a305d0d85d1a1fd8f18c07873704898/virtualization/windowscontainers/reference/app_compat.md)
+* Current Handback File: [app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/6e66a34464a6cbb920f4e2a34470b1aa422454b6/ol-handback/OpenLocalizationOrg/hyperVTest.ko-kr/master/app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.ko-kr.xlf)
+* Current Handback Datetime: 2015-11-13 07:44:33
 * [Back to Top](#report-top)
 
 
