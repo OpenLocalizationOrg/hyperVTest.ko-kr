@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1db68df7816352d665d7ed49a07a423c9556424d/virtualization/windowscontainers/quick_start/manage_powershell.md) | OutofSyncHandedBackSuccess | [Details](#ecf704776198d2aa9f274a7a5dfac99b59bc9e44225)
 
 ## Item Details
+##### <a name='ecf704776198d2aa9f274a7a5dfac99b59bc9e44225'></a> Source: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1db68df7816352d665d7ed49a07a423c9556424d/virtualization/windowscontainers/quick_start/manage_powershell.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6cf689d832779b1136fb766ec3f4e1aced97f4ff/ol-handoff/OpenLocalizationOrg/hyperVTest.ko-kr/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.ko-kr.xlf)
+* Handoff Datetime: 2016-01-18 08:45:32
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest.ko-kr/blob/d3ea81d45739f0489cf68a6fb55190c244e39c41/virtualization/windowscontainers/quick_start/manage_powershell.md)
+* Current Handback File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.ko-kr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/32ece6de032731fb19ec5864cc8895c192ed248e/ol-handback/OpenLocalizationOrg/hyperVTest.ko-kr/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.ko-kr.xlf)
+* Current Handback Datetime: 2016-01-11 08:44:06
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
