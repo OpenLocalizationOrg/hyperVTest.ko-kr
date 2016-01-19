@@ -4225,9 +4225,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\archive\\manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.ko-kr.xlf",
+      "ArchiveFileCommit": "baba366ca5a045b7db133988bd1912a2178083de",
+      "ArchiveFileDateTime": "2016-01-19T06:05:37.9986516Z",
       "ArchiveException": null
     }
   }
