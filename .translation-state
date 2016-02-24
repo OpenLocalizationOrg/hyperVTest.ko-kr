@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "cb0717dfb20fe986a8a201bc636554f6f80acd1d",
+  "LastProcessedCommit": "71d2f957d3dfb079e53a0db1bce97715f1d5cb96",
   "LastTranslatedCommit": "d3ea81d45739f0489cf68a6fb55190c244e39c41",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -62172,6 +62172,34 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.ko-kr.xlf",
       "HandoffFileCommit": "4fc5d05ada3b12e37493ddd9a775944d53e2f390",
       "HandoffDateTime": "2016-02-22T20:06:12.1771502Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "68665870f66743f7cfd49c1e19a5707b380dc7dd": {
+      "FileHash": "68665870f66743f7cfd49c1e19a5707b380dc7dd",
+      "SourceFileCommit": "71d2f957d3dfb079e53a0db1bce97715f1d5cb96",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\powershell_snippets_new.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\powershell_snippets_new.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.ko-kr\\master\\powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.ko-kr.xlf",
+      "HandoffFileCommit": "b1e638ed9b21ad916034f792462d053f9eac7281",
+      "HandoffDateTime": "2016-02-24T19:16:35.5709059Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
